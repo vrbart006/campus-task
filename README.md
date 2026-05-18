@@ -1,4 +1,4 @@
-# 📚 CampusTask
+#  CampusTask
 
 Aplicativo móvel para auxiliar estudantes na organização de atividades acadêmicas.
 
@@ -7,10 +7,10 @@ Aplicativo móvel para auxiliar estudantes na organização de atividades acadê
 - ISO/IEC/IEEE 15288 — Ciclo de Vida de Sistemas
 
 ## Funcionalidades
-- ✅ Registrar tarefas de estudo
-- ✅ Definir prazos para atividades
-- ✅ Visualizar tarefas pendentes
-- ✅ Marcar tarefas como concluídas
+-  Registrar tarefas de estudo
+-  Definir prazos para atividades
+-  Visualizar tarefas pendentes
+-  Marcar tarefas como concluídas
 
 ## Documentação
 Todos os artefatos de engenharia estão na pasta `docs/`:
